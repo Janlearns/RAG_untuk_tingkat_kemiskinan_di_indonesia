@@ -1,2 +1,5 @@
 .env
 project.md
+.gitignore
+__pycache__/
+*.pyc
