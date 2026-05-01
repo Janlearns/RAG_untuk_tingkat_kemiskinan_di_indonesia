@@ -28,9 +28,9 @@ Knowledge base dalam project ini bersumber dari:
 - **Format**: File PDF yang diekstrak menjadi teks
 - **Topik**: Analisis faktor sosial-ekonomi dan kualitas lingkungan terhadap kemiskinan di Indonesia
 
-### Menambahkan Referensi Jurnal
+### Referensi Jurnal
 
-Untuk menambahkan referensi jurnal baru ke dalam knowledge base, silakan masukkan link jurnal dari Google Scholar:
+
 
 ```
 📚 Sumber Jurnal:
